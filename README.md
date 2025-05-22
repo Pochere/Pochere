@@ -4,10 +4,33 @@
     I'm a passionate junior web developer focused on building clean, responsive websites and learning modern backend technologies. I thrive in environments where I can solve real problems through code, collaborate with others, and keep improving my craft.
   </p>
 
+## 🚀 Skills & Technologies
+
+### 🖥️ Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Responsive Web Design
+
+### 🛠️ Backend (Learning)
+- Python  
+- Node.js  
+- SQL (Basic)  
+- APIs & Data Fetching
+
+### ⚙️ Tools & Workflow
+- Git & GitHub  
+- Visual Studio Code  
+- Chrome DevTools  
+- Figma (Basic)
+
 <h2>👨‍💻 View My Projects:</h2>
 
 
-<h2> Certifications </h2>
+
+
+<h2>🏆 Certifications </h2>
 <ul>
   <li>
     <strong>Software Engineering Certificate</strong> – Power Learn Project (2024)
@@ -28,11 +51,11 @@
 [<img align="left" alt="PaulineOchere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
 [linkedin]: https://www.linkedin.com/in/pauline-ochere-mba/
 
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pochere/Pochere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
