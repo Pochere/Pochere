@@ -26,6 +26,10 @@
 - Figma (Basic)
 
 <h2>👨‍💻 View My Projects:</h2>
+ 🔹 <a href="https://github.com/Pochere/weather-app-project" target="_blank">My Weather App</a>
+
+A simple and user-friendly weather application that provides accurate weather forecasts, temperature readings, cloud coverage details, and geographical coordinates.  
+Tech stack: HTML, CSS, Python, Shell, Nushell, Batchfile
 
 
 
