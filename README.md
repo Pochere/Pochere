@@ -30,6 +30,14 @@ I'm a passionate junior web developer focused on building clean, responsive webs
 
 ---
 
+<h2>🎯 Currently Learning</h2>
+<ul>
+  <li>Backend development with Python and Node.js</li>
+  <li>APIs and database integration</li>
+  <li>Version control and collaborative development on GitHub</li>
+</ul>
+
+
 ## 👨‍💻 View My Projects
 
 ### 🔹 [My Weather App](https://github.com/Pochere/weather-app-project)
