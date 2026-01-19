@@ -16,7 +16,7 @@ I'm a passionate junior web developer focused on building clean, responsive webs
 - Bootstrap  
 - Responsive Web Design
 
-### 🛠️ Backend (Learning)
+### 🛠️ Backend
 - Python  
 - Node.js  
 - SQL (Basic)  
@@ -30,19 +30,15 @@ I'm a passionate junior web developer focused on building clean, responsive webs
 
 ---
 
-<h2>🎯 Currently Learning</h2>
-<ul>
-  <li>Backend development with Python and Node.js</li>
-  <li>APIs and database integration</li>
-  <li>Version control and collaborative development on GitHub</li>
-</ul>
-
-
 ## 👨‍💻 View My Projects
 
 ### 🔹 [My Weather App](https://github.com/Pochere/weather-app-project)
 A simple and user-friendly weather application that provides accurate weather forecasts, temperature readings, cloud coverage details, and geographical coordinates.  
-**Tech stack:** HTML, CSS, Python, Shell, Nushell, Batchfile
+**Tech stack:** HTML, CSS, Python, Shell, Batchfile
+
+### 🔹 https://github.com/Pochere/Mentorship-matching-API-Capstone-project
+A Mentorship matching API that connects mentors and mentees based on their skills and interests.  The goal is to allow mentees to search for mentors who have expertise in specific areas and to enable mentors to accept or decline mentorship requests.
+**Tech stack.** Python 3.12+, Django 5+, Django REST Framework, SQLite3 (default database), DRF Token Authentication
 
 ---
 
@@ -50,7 +46,8 @@ A simple and user-friendly weather application that provides accurate weather fo
 
 - **Software Engineering Certificate** – Power Learn Project (2024)
 - **Responsive Web Design** – [freeCodeCamp](https://www.freecodecamp.org/certification/POCHERE/responsive-web-design) (2023)
-- **Backend Development Training** – ALX Africa *(In Progress)*
+- **Programming Methodologies** - Stanford University(Online - June 2025)
+- **Backend Development Certificate** – ALX Africa *(Nov 2025)*
 
 ---
 
